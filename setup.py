@@ -13,5 +13,5 @@ setup(name='AlgosandDataStructure',
     author_email='joaogabrielferr@gmail.com',
     keywords='Competitive programming',
     description=u'Package with implementation of some useful algorithms and data structures commonly used in competitive programming',
-    packages=['DataStructuresForCompProg'],
+    packages=['AlgosandDataStructures'],
     install_requires=['heapq'],)
