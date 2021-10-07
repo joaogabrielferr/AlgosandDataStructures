@@ -3,8 +3,8 @@ from setuptools import setup
 with open("README.md", "r") as fh:
     readme = fh.read()
 
-setup(name='AlgosandDataStructure',
-    version='0.0.1',
+setup(name='AlgosandDataStructures',
+    version='1.0',
     url='https://github.com/joaogabrielferr/AlgosandDataStructures',
     license='MIT License',
     author='Joao Gabriel Ferreira',
@@ -14,4 +14,4 @@ setup(name='AlgosandDataStructure',
     keywords='Competitive programming',
     description=u'Package with implementation of some useful algorithms and data structures commonly used in competitive programming',
     packages=['AlgosandDataStructures'],
-    install_requires=['heapq'],)
+    install_requires=[''],)
