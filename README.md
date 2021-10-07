@@ -30,7 +30,16 @@ Lower bound <br />
 Upper bound <br />
 Dijkstra <br />
 Floyd warshal <br />
-An explanation on how to implement a graph using adjancency list of adjacency matrix (Use ```python from AlgosandDataStructures import howtoGraph``` and then do ```python howtoGraph.how_to()``` <br />
+An explanation on how to implement a graph using adjancency list of adjacency matrix (Use 
+```bash
+from AlgosandDataStructures import howtoGraph
+```
+and then do
+```bash
+from  howtoGraph.how_to()
+```
+to see the information)
+<br />
 Data structures: <br />
 Fenwick tree <br />
 Stack <br />
