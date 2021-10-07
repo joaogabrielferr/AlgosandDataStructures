@@ -5,7 +5,7 @@ A python package that provides useful algorithms and data structures commonly us
 pip install AlgosandDataStructures==1.0
 ```
 
-Exemple:
+Example:
 ```python
 from AlgosandDataStructures import Dijkstra
 
