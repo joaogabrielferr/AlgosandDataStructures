@@ -36,7 +36,7 @@ from AlgosandDataStructures import howtoGraph
 ```
 and then do
 ```bash
-from  howtoGraph.how_to()
+howtoGraph.how_to()
 ```
 to see the information)
 <br />
