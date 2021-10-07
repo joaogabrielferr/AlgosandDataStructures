@@ -1,7 +1,7 @@
 # AlgosandDataStructures
 A python package that provides useful algorithms and data structures commonly used in competitive programming contests.
 
-To install, ```python use pip install AlgosandDataStructures==1.0 ```
+To install, use ```python pip install AlgosandDataStructures==1.0 ```
 
 Exemple:
 ```python
