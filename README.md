@@ -30,7 +30,7 @@ Lower bound <br />
 Upper bound <br />
 Dijkstra <br />
 Floyd warshal <br />
-An explanation on how to implement a graph using adjancency list of adjacency matrix (Use 
+An explanation on how to implement a graph using adjancency list or adjacency matrix (Use 
 ```bash
 from AlgosandDataStructures import howtoGraph
 ```
