@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     readme = fh.read()
 
 setup(name='AlgosandDataStructures',
-    version='1.0',
+    version='1.1',
     url='https://github.com/joaogabrielferr/AlgosandDataStructures',
     license='MIT License',
     author='Joao Gabriel Ferreira',

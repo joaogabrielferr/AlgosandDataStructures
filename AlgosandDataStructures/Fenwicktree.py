@@ -20,4 +20,4 @@ class FenwickTree():
         while index <= size:
             self.array[index] += value
             index+= index&(-index)
-
+         

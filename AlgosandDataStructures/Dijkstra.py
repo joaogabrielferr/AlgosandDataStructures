@@ -1,6 +1,6 @@
 import heapq
 
-def Dijkstra(graph,source,target,numvertex):
+def Dijkstra(graph,source,numvertex):
     print("")
     distance = []
     for i in range(numvertex):
@@ -21,5 +21,5 @@ def Dijkstra(graph,source,target,numvertex):
     return distance
 
 def how_to():
-    print("the function expects a graph represented as a adjacency list, import Graph and use the function\nhow_to() to see how the implement the graph as a dictionary of lists")
+    print("the function expects a graph represented as a adjacency list, import howToGraph and use the function\nhow_to() to see how the implement the graph as a dictionary of lists")
 

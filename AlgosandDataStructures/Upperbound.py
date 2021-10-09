@@ -4,7 +4,7 @@
 def Upperbound(arr,value):
 
     ini = 0
-    end = len(arr)
+    end = len(arr) - 1
 
     while ini < end:
         middle = ini + (end - ini)/2
@@ -16,5 +16,5 @@ def Upperbound(arr,value):
 
         if ini < len(arr) and arr[ini] <= value:
             ini+=1
+        if arr[ini] < value : return 'last'
         return ini
-    
