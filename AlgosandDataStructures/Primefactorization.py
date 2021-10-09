@@ -19,5 +19,3 @@ def Primefactorization(value):
     
     return answer
 
-
-print(Primefactorization(20))
