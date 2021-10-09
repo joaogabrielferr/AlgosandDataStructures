@@ -21,7 +21,7 @@ graph[1].append((3,7))
 graph[2].append((1,8))
 graph[3].append((4,7))
 
-print(Dijkstra.Dijkstra(graph,0,4,5))
+print(Dijkstra.Dijkstra(graph,0,5))
 ```
 
 Algorithms: <br />
