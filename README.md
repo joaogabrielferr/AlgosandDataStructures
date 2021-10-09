@@ -2,7 +2,7 @@
 A python package that provides useful algorithms and data structures commonly used in competitive programming contests.
  To install, use 
 ```bash
-pip install AlgosandDataStructures==1.0
+pip install AlgosandDataStructures
 ```
 
 Example:
@@ -30,6 +30,8 @@ Lower bound <br />
 Upper bound <br />
 Dijkstra <br />
 Floyd warshal <br />
+Bellman Ford <br />
+Prime factorization <br />
 An explanation on how to implement a graph using adjancency list or adjacency matrix (Use 
 ```bash
 from AlgosandDataStructures import howtoGraph
