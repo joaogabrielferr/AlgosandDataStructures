@@ -46,4 +46,3 @@ Data structures: <br />
 Fenwick tree <br />
 Stack <br />
 
-I'm gonna keep adding new stuff to the package when i have time
